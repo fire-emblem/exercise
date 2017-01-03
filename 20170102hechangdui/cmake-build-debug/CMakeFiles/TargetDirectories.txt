@@ -1,0 +1,3 @@
+/home/cj/Documents/gitspace/exercise/20170102hechangdui/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cj/Documents/gitspace/exercise/20170102hechangdui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cj/Documents/gitspace/exercise/20170102hechangdui/cmake-build-debug/CMakeFiles/20170102hechangdui.dir

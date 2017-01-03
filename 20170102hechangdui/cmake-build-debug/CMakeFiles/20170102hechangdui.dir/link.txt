@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/20170102hechangdui.dir/main.cpp.o  -o 20170102hechangdui 
