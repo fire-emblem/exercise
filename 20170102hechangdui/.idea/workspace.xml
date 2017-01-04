@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dcc106b-e55f-4575-b2b9-f4a803677abe" name="Default" comment="">
+    <list default="true" id="1dcc106b-e55f-4575-b2b9-f4a803677abe" name="Default" comment="clion git commit&amp;push test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -324,7 +324,7 @@
       <workItem from="1483408606856" duration="2114000" />
       <workItem from="1483429114951" duration="710000" />
       <workItem from="1483444946094" duration="855000" />
-      <workItem from="1483494383571" duration="440000" />
+      <workItem from="1483494383571" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1483494533718</created>
@@ -354,11 +354,18 @@
       <option name="project" value="LOCAL" />
       <updated>1483494819426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="clion git commit&amp;push test">
+      <created>1483494825440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1483494825440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4131000" />
+    <option name="totallyTimeSpent" value="4142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
